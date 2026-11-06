@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.DS_Store
+output/
+
+resources/go-basic.obo
+resources/kegg_pathway_names.tsv
+resources/*.download
